@@ -1,0 +1,67 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+header {
+    display: flex;
+    background-color: #f08080;
+    align-items: center;
+    justify-content: center;
+}
+.call:hover {
+    color: #adff2f;
+}
+.jonathon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+ul {
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    justify-content: space-around;
+    padding: 0 10px;
+    border: 5px solid black;
+}
+li {
+    text-decoration: none;
+    padding: 40px;
+    font-family: 'Chango', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Chango', sans-serif;
+}
+a:hover {
+    color: rgb(2, 49, 2);
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-image:url('food.jpg');
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.battletendency {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.joseph {
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+.stardustcrusaders {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button {
+    margin:8px !important;
+    color:#ED7700 !important;
+}
